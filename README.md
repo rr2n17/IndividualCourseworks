@@ -1,2 +1,2 @@
-# training1
-My first test repository
+# Data Mining: Understanding the Data
+
